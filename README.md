@@ -11,7 +11,7 @@ I also was able to take out multiple repetitive CSS rules and condense them with
 * HTML
 * CSS 
 
-## Live Site
+## Live URL
 [https://diegorivera1110.github.io/refactored-horiseon-accessibility/](https://diegorivera1110.github.io/refactored-horiseon-accessibility)
 
 ##  Screenshot
